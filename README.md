@@ -33,7 +33,7 @@ Source repository: https://github.com/Sparkqianye/Sparkqianye
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?  font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ Source repository: https://github.com/Sparkqianye/Sparkqianye
 <a href="https://github.com/Sparkqianye"><img src="https://img.shields.io/badge/GitHub-Sparkqianye-blue?logo=github" /></a>
 <!-- <a href="https://gitee.com/gypso"><img src="https://img.shields.io/badge/Gitee-gypso-blue?logo=gitee" /></a> -->
 <!-- <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" /></a> -->
-<a href="https://wakatime.com/@Sparkqianye"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
+
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Sparkqianye" />
 </p>
