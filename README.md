@@ -47,8 +47,7 @@ Source repository: https://github.com/Sparkqianye/Sparkqianye
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Sparkqianye&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sparkqianye&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparkqianye&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
@@ -61,7 +60,7 @@ Source repository: https://github.com/Sparkqianye/Sparkqianye
 <a href="https://github.com/Sparkqianye"><img src="https://img.shields.io/badge/GitHub-Sparkqianye-blue?logo=github" /></a>
 <!-- <a href="https://gitee.com/gypso"><img src="https://img.shields.io/badge/Gitee-gypso-blue?logo=gitee" /></a> -->
 <!-- <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" /></a> -->
-
+<a href="https://wakatime.com/@Sparkqianye"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Sparkqianye" />
 </p>
